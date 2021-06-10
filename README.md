@@ -26,6 +26,7 @@ const aboutMe = {
       },
       databases: ["mySQL"]
    },
+   bundle: ["Webpack", "Parcel"],
    currentOccupation: ["I am recently titled in Web Development, open for job opportunities"],
    challenge: "I'm learning front end tecnologies: React, Vue, Angular",
    otherSkills: [Image editing, Video Editing, Banner design with Canva or Photoshop, Wordpress, Prestashop],
