@@ -1,4 +1,5 @@
 ## Hello World I'm Irene! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+### Junior Front End Developer
 
 - 👋 Hi, I’m @IreneAragon
 - 👀 I’m interested in front end development
