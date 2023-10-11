@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @IreneAragon
 - 👀 I’m interested in front end development
-- 📚 I’m currently learning  Front End web development using React, Angular and Vue.
+- 📚 I’m currently learning Front end skills as React, Next.js, Angular and Vue.
 - 💞️ I’m looking to collaborate on Front End projects
 - 📫 Email me: irenearagongomez@gmail.com
 
@@ -13,23 +13,25 @@
 const aboutMe = {
    pronouns: "she" | "her",
    from: "Málaga",
-   languages: ["Spanish", "Good level of english"],
-   askMeAbout: ["web dev", "series and cinema", "books", "music"],
-   code: [Javascript, Typescript, HTML, CSS, PHP],
+   languages: {
+      Spanish: "Native",
+      English: "Conversational"
+   }
    technologies: {
       frontEnd: {
-         js: ["Vanilla"],
-         css: ["Grid", "Flex", "SASS", "Bootstrap"]
+         js: ["Vanilla", "React", "Next.js", "Angular", "Vue"],
+         css: ["Grid", "Flex", "SASS", "LESS", "Bootstrap"]
       },
       backEnd: {
          PHP: ["Vanilla"]
       },
-      databases: ["mySQL"]
+      databases: "mySQL"
    },
    bundle: ["Webpack", "Parcel"],
-   currentOccupation: ["I am recently titled in Web Development, open for job opportunities"],
+   currentOccupation: "I'm currently looking for a job as a front end developer or web designer.",
    challenge: "I'm learning front end tecnologies: React, Vue, Angular",
-   otherSkills: [Image editing, Video Editing, Banner design with Canva or Photoshop, Wordpress, Prestashop],
+   otherSkills: ["Image editing", "Video Editing", "Wordpress", "Prestashop"],
+   askMeAbout: ["web dev", "series and cinema", "books", "music"]
 };
 ```
 <h3> ⭐️ In my repositories I'm working with: </h3>
