@@ -23,7 +23,7 @@ const aboutMe = {
          css: ["Grid", "Flex", "SASS", "LESS", "Bootstrap"]
       },
       backEnd: {
-         PHP: ["Vanilla"]
+         PHP: "Vanilla"
       },
       databases: "mySQL"
    },
